@@ -1,0 +1,9 @@
+Objects detected in 27.jpg:
+melee: 2
+
+Estimated Detection Accuracy: 96.2%
+Quality: Excellent
+
+Detailed detections:
+melee 0.957572 155 11 119 458
+melee 0.889938 463 4 38 463

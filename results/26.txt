@@ -1,0 +1,24 @@
+Objects detected in 26.jpg:
+melee: 17
+
+Estimated Detection Accuracy: 94.4%
+Quality: Excellent
+
+Detailed detections:
+melee 0.945920 322 0 113 185
+melee 0.936837 449 0 53 103
+melee 0.931473 0 174 152 160
+melee 0.919709 301 1 38 91
+melee 0.910067 425 63 29 157
+melee 0.908643 32 1 37 90
+melee 0.896772 408 0 11 56
+melee 0.893959 556 0 55 70
+melee 0.893707 385 52 14 74
+melee 0.888569 218 0 19 48
+melee 0.881036 101 0 49 257
+melee 0.876846 573 30 22 87
+melee 0.872330 258 1 18 72
+melee 0.870936 292 1 20 84
+melee 0.846117 55 0 18 87
+melee 0.814205 0 0 14 139
+melee 0.807342 114 0 13 105

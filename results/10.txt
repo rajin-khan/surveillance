@@ -1,0 +1,15 @@
+Objects detected in 10.jpg:
+melee: 8
+
+Estimated Detection Accuracy: 95.9%
+Quality: Excellent
+
+Detailed detections:
+melee 0.964258 369 34 85 92
+melee 0.949113 554 7 91 162
+melee 0.941948 285 3 86 262
+melee 0.923886 179 199 111 201
+melee 0.901324 97 72 26 126
+melee 0.899998 642 1 36 179
+melee 0.885458 272 73 25 101
+melee 0.870547 504 75 19 79

@@ -1,0 +1,10 @@
+Objects detected in 29.jpg:
+melee: 3
+
+Estimated Detection Accuracy: 89.3%
+Quality: Good
+
+Detailed detections:
+melee 0.957473 0 89 275 76
+melee 0.896713 1 101 172 39
+melee 0.506274 114 89 161 47

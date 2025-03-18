@@ -1,0 +1,14 @@
+Objects detected in 37.jpg:
+melee: 7
+
+Estimated Detection Accuracy: 96.9%
+Quality: Excellent
+
+Detailed detections:
+melee 0.976238 778 67 420 533
+melee 0.961739 190 4 208 417
+melee 0.944676 256 0 145 180
+melee 0.942741 495 403 540 87
+melee 0.919992 314 3 33 244
+melee 0.908878 51 89 65 84
+melee 0.905235 389 160 118 78

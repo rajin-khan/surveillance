@@ -1,0 +1,190 @@
+===== DETECTION SUMMARY =====
+
+Overall Estimated Accuracy: 94.6%
+Detection Quality: Excellent
+
+===== TOTAL OBJECT COUNTS ACROSS ALL IMAGES =====
+melee: 245
+
+===== OBJECT COUNTS AND ACCURACY PER IMAGE =====
+
+Image: ../dataset/train/images/1.jpg
+Estimated Accuracy: 97.9%
+Quality: Excellent
+Objects:
+  melee: 1
+
+Image: ../dataset/train/images/10.jpg
+Estimated Accuracy: 95.9%
+Quality: Excellent
+Objects:
+  melee: 8
+
+Image: ../dataset/train/images/11.jpg
+Estimated Accuracy: 96.5%
+Quality: Excellent
+Objects:
+  melee: 3
+
+Image: ../dataset/train/images/15.jpg
+Estimated Accuracy: 94.4%
+Quality: Excellent
+Objects:
+  melee: 10
+
+Image: ../dataset/train/images/16.jpg
+Estimated Accuracy: 83.4%
+Quality: Good
+Objects:
+  melee: 1
+
+Image: ../dataset/train/images/17.jpg
+Estimated Accuracy: 83.7%
+Quality: Good
+Objects:
+  melee: 30
+
+Image: ../dataset/train/images/18.jpg
+Estimated Accuracy: 92.1%
+Quality: Excellent
+Objects:
+  melee: 27
+
+Image: ../dataset/train/images/19.jpg
+Estimated Accuracy: 91.0%
+Quality: Excellent
+Objects:
+  melee: 20
+
+Image: ../dataset/train/images/2.jpg
+Estimated Accuracy: 98.6%
+Quality: Excellent
+Objects:
+  melee: 1
+
+Image: ../dataset/train/images/20.jpg
+Estimated Accuracy: 90.5%
+Quality: Excellent
+Objects:
+  melee: 35
+
+Image: ../dataset/train/images/23.jpg
+Estimated Accuracy: 96.0%
+Quality: Excellent
+Objects:
+  melee: 1
+
+Image: ../dataset/train/images/24.jpg
+Estimated Accuracy: 94.1%
+Quality: Excellent
+Objects:
+  melee: 4
+
+Image: ../dataset/train/images/25.jpg
+Estimated Accuracy: 96.7%
+Quality: Excellent
+Objects:
+  melee: 4
+
+Image: ../dataset/train/images/26.jpg
+Estimated Accuracy: 94.4%
+Quality: Excellent
+Objects:
+  melee: 17
+
+Image: ../dataset/train/images/27.jpg
+Estimated Accuracy: 96.2%
+Quality: Excellent
+Objects:
+  melee: 2
+
+Image: ../dataset/train/images/28.jpg
+Estimated Accuracy: 95.2%
+Quality: Excellent
+Objects:
+  melee: 9
+
+Image: ../dataset/train/images/29.jpg
+Estimated Accuracy: 89.3%
+Quality: Good
+Objects:
+  melee: 3
+
+Image: ../dataset/train/images/3.jpg
+Estimated Accuracy: 94.0%
+Quality: Excellent
+Objects:
+  melee: 5
+
+Image: ../dataset/train/images/30.jpg
+Estimated Accuracy: 96.9%
+Quality: Excellent
+Objects:
+  melee: 2
+
+Image: ../dataset/train/images/31.jpg
+Estimated Accuracy: 96.1%
+Quality: Excellent
+Objects:
+  melee: 3
+
+Image: ../dataset/train/images/35.jpg
+Estimated Accuracy: 95.6%
+Quality: Excellent
+Objects:
+  melee: 5
+
+Image: ../dataset/train/images/36.jpg
+Estimated Accuracy: 93.4%
+Quality: Excellent
+Objects:
+  melee: 6
+
+Image: ../dataset/train/images/37.jpg
+Estimated Accuracy: 96.9%
+Quality: Excellent
+Objects:
+  melee: 7
+
+Image: ../dataset/train/images/38.jpg
+Estimated Accuracy: 95.1%
+Quality: Excellent
+Objects:
+  melee: 21
+
+Image: ../dataset/train/images/4.jpg
+Estimated Accuracy: 96.9%
+Quality: Excellent
+Objects:
+  melee: 3
+
+Image: ../dataset/train/images/5.jpg
+Estimated Accuracy: 96.5%
+Quality: Excellent
+Objects:
+  melee: 7
+
+Image: ../dataset/train/images/6.jpg
+Estimated Accuracy: 98.6%
+Quality: Excellent
+Objects:
+  melee: 1
+
+Image: ../dataset/train/images/7.jpg
+Estimated Accuracy: 98.3%
+Quality: Excellent
+Objects:
+  melee: 1
+
+Image: ../dataset/train/images/8.jpg
+Estimated Accuracy: 96.5%
+Quality: Excellent
+Objects:
+  melee: 1
+
+Image: ../dataset/train/images/9.jpg
+Estimated Accuracy: 97.1%
+Quality: Excellent
+Objects:
+  melee: 7
+

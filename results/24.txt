@@ -1,0 +1,11 @@
+Objects detected in 24.jpg:
+melee: 4
+
+Estimated Detection Accuracy: 94.1%
+Quality: Excellent
+
+Detailed detections:
+melee 0.947159 817 50 70 1450
+melee 0.926176 751 49 68 1451
+melee 0.893202 686 47 68 1453
+melee 0.764990 628 51 68 1449

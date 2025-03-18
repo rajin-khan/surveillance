@@ -1,0 +1,12 @@
+Objects detected in 35.jpg:
+melee: 5
+
+Estimated Detection Accuracy: 95.6%
+Quality: Excellent
+
+Detailed detections:
+melee 0.949327 0 394 126 165
+melee 0.948097 360 161 173 247
+melee 0.908885 796 253 208 43
+melee 0.881881 825 482 199 47
+melee 0.870641 711 543 189 37

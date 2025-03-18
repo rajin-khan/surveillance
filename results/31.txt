@@ -1,0 +1,10 @@
+Objects detected in 31.jpg:
+melee: 3
+
+Estimated Detection Accuracy: 96.1%
+Quality: Excellent
+
+Detailed detections:
+melee 0.959083 475 64 136 129
+melee 0.915229 339 276 33 143
+melee 0.894403 947 133 76 549

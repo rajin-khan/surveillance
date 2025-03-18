@@ -1,0 +1,12 @@
+Objects detected in 3.jpg:
+melee: 5
+
+Estimated Detection Accuracy: 94.0%
+Quality: Excellent
+
+Detailed detections:
+melee 0.958843 161 48 122 130
+melee 0.915567 120 41 33 21
+melee 0.915397 220 13 23 43
+melee 0.816790 417 0 28 18
+melee 0.791638 330 3 41 15

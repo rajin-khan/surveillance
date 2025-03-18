@@ -1,0 +1,11 @@
+Objects detected in 25.jpg:
+melee: 4
+
+Estimated Detection Accuracy: 96.7%
+Quality: Excellent
+
+Detailed detections:
+melee 0.982687 198 256 1102 545
+melee 0.961837 456 451 843 226
+melee 0.934836 252 257 49 140
+melee 0.858253 0 233 312 198

@@ -1,0 +1,13 @@
+Objects detected in 36.jpg:
+melee: 6
+
+Estimated Detection Accuracy: 93.4%
+Quality: Excellent
+
+Detailed detections:
+melee 0.938728 231 71 116 55
+melee 0.895591 446 115 25 64
+melee 0.878911 524 117 47 12
+melee 0.857997 558 126 40 38
+melee 0.851679 513 70 9 40
+melee 0.788994 0 117 32 23
