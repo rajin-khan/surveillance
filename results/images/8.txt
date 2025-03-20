@@ -1,8 +1,0 @@
-Objects detected in 8.jpg:
-melee: 1
-
-Estimated Detection Accuracy: 96.5%
-Quality: Excellent
-
-Detailed detections:
-melee 0.930217 786 9 148 750

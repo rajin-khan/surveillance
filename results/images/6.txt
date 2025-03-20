@@ -1,8 +1,0 @@
-Objects detected in 6.jpg:
-melee: 1
-
-Estimated Detection Accuracy: 98.6%
-Quality: Excellent
-
-Detailed detections:
-melee 0.971083 43 0 56 64

@@ -1,8 +1,0 @@
-Objects detected in 2.jpg:
-melee: 1
-
-Estimated Detection Accuracy: 98.6%
-Quality: Excellent
-
-Detailed detections:
-melee 0.972850 1 0 1499 1448

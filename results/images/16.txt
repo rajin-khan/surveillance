@@ -1,8 +1,0 @@
-Objects detected in 16.jpg:
-melee: 1
-
-Estimated Detection Accuracy: 83.4%
-Quality: Good
-
-Detailed detections:
-melee 0.667279 109 69 92 1198

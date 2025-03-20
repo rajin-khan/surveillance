@@ -1,8 +1,0 @@
-Objects detected in 23.jpg:
-melee: 1
-
-Estimated Detection Accuracy: 96.0%
-Quality: Excellent
-
-Detailed detections:
-melee 0.920435 208 18 1636 1158
