@@ -2,3 +2,5 @@
 models/WeaponModel_v1.pt
 streamlinks.txt
 */.env
+/weapons/betterweapons/
+/weapons/inference
